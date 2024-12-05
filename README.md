@@ -1,5 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/ititer/badge/?style=flat-square)](https://ititer.readthedocs.io/en/latest/?badge=latest)
-
+# edited ititer a little bit - KarenHDT
 # ititer
 
 Infer inflection and endpoint titers from serial dilution assays using Bayesian hierarchical modelling.
